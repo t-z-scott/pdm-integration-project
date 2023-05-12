@@ -10,5 +10,7 @@ I created an art installation controlled by force-sensitive sensors to change th
 ## narrative description of project
 Originally, I wanted to make a digital instrument. When the user pressed on the sensors, it was going to play a note, and the note would be low or high depending on the amount of pressure. I had to scale it back for time, and I landed on this idea instead. I like how it turned out, but I think I'd still like to do my original idea sometime.
 
+---
+
 ## future development
 In the future, I hope to expand on this project by using MIDI instead of hardcoded values. I'd make the animations (psuedo)random, and add an option to the website to use a keyboard in case the user doesn't have an Arduino kit. I would also like to make it connect to MIDI controllers, if possible. I'd also cover the force pressure sensors with some kind of hardware to make it look better!
