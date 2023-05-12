@@ -4,6 +4,9 @@
   - [ ] images of project
 
 ## vid
+
+---
+
 ## outline
 I created an art installation controlled by force-sensitive sensors to change the music and animation playing. Pressing the sensors also generates a random value of red, green, or blue - respectively - in p5 and sends it back to the board to light up the RGB light. I used Arduino to control the sensors and the LED. I used [c2.js](https://github.com/ren-yuan/c2.js) to make the animation, [p5.js](https://p5js.org/) for the client-side code, and [p5 Serial Control](https://github.com/p5-serial/p5.serialcontrol) to connect my program to the Arduino board. The music is Save Point from Kirby Super Star, composed by Jun Ishikawa & Dan Miyakawa.
 * ![relevant schematic](https://github.com/t-z-scott/pdm-integration-project/blob/main/images/project%20schematic%20(final).png) 
