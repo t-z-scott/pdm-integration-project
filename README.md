@@ -1,5 +1,5 @@
 # pdm-integration-project
-- required
+- required:
   - [ ] video example of project
   - [ ] images of project
 
