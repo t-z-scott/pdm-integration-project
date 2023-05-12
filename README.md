@@ -10,7 +10,7 @@ I created an art installation controlled by force-sensitive sensors to change th
 
 ## images
 ## narrative description
-Originally, I wanted to make a digital instrument. When the user pressed on the sensors, it was going to play a note, and the note would be low or high depending on the amount of pressure. I had to scale it back for time, and I landed on this idea instead. I like how it turned out, but I think I'd still like to do my original idea sometime.
+Originally, I wanted to make a digital instrument. When the user pressed on the sensors, it was going to play a note, and the note would be low or high depending on the amount of pressure. I had to scale it back for time (*and* because it required more analog pins than available on the Arduino Uno), and I landed on this idea instead. I like how it turned out, but I think I'd still like to do my original idea sometime.
 * ![relevant schematic](https://github.com/t-z-scott/pdm-integration-project/blob/main/images/project%20schematic%20(initial).png) 
 
 ---
